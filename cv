@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Geremy Andrei Personal Site</title>
+  </head>
+
+  <body>
+        <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/278891849_1199230534237300_7968881165988677571_n.jpg?stp=dst-jpg_p206x206&_nc_cat=103&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeH2M2lWFcxEqT9usHWWEdGF4ZdIqU72XYXhl0ipTvZdhbgjToWXWKwKi7olmHYPtOk9JpJLtt8wlhN5wWSW79-I&_nc_ohc=ZFPMMN4MtrkAX_de1yU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKVwuPrI9wDfDhcG6UNHUEk5jL-ogLFlxD6o0zEnnK1vg&oe=6290C2FC" alt="">
+        <h1>Geremy Andrei Reloza</h1>
+        <p><em>Students in <strong><a href="https://psu.edu.ph/psu-bayambang-campus-officials/">PSU Bayambang</a></strong>.<em></p>
+          <p>I am 2nd Year College student at PSU Bayambang. I love watching movies.</p>
+          <hr>
+          <h3>Educational Background</h3>
+          <h3>Pangasisnan State University of Bayambang</h3>
+          <ul>
+            <li>Second Year College student in the course of Bachelor of Science in Information Technology.</li>
+            </ul>
+            <a href="hobbies.html">My Hobbies</a>
+            <a href="contact-me.html">Contact Me</a>
+  </body>
+</html>
+<hr>
+              <h3>Work Experience</h3>
+                    <th>Dates</th>
+                    <th>Work</th>
+              <p>2020-2022       Construction Worker</p>
+<hr>
+              <h3>Skills</h3>
+              <td>Photoshop</td>
+              <td>🌟🌟🌟</td>
+              <td>Photographer</td>
+              <td>🌟🌟🌟</td>
+              <td>Encoder</td>
+              <td>🌟🌟🌟🌟🌟</td>
